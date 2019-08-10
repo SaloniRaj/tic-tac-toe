@@ -2,7 +2,6 @@
 Basic 'tic tac toe' program written in C language.
 
 What is tic tac toe?
-
 Well... its a game.
  
  
@@ -14,6 +13,5 @@ RULES FOR TIC-TAC-TOE
 
 
 How will this program works?
-
 It will first ask the player 1 to enter rows and column and fill it in the entered block,then it will ask the same to player 2 and will do the same and so on...
 until it will find its winner or all blocks are filled(tie).
