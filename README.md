@@ -2,7 +2,7 @@
 Basic 'tic tac toe' (game)  program written in C language.
 
 What is tic tac toe?
-well... its a game.
+	well... its a game.
  
  
 RULES FOR TIC-TAC-TOE
