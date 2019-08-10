@@ -1,8 +1,8 @@
 # tic-tac-toe
-Basic 'tic tac toe' (game)  program written in C language.
+Basic 'tic tac toe' program written in C language.
 
 What is tic tac toe?
-	well... its a game.
+        Well... its a game.
  
  
 RULES FOR TIC-TAC-TOE
